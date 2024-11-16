@@ -28,7 +28,7 @@
 ## Inserção de Dados
 
 ### Criar 3 alunos
-```sql
+
 INSERT INTO aluno (id, nome, data_nascimento) VALUES
 (1, 'João Silva', '2000-01-15'),
 (2, 'Maria Oliveira', '2001-05-22'),
